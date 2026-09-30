@@ -1,4 +1,4 @@
-# intrinsic-gs
+# REPO GETTING UPDATED
 
 **Intrinsic 4D Gaussian Segmentation from Scene Cues**
 
